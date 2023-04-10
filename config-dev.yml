@@ -4,4 +4,4 @@ spring:
   profiles:
     active: dev
 config:
-  info: springcloud configuration test version=5
+  info: springcloud configuration test version=6
