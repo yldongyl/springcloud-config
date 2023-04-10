@@ -3,3 +3,5 @@ spring:
     name: springcloud-config-dev
   profiles:
     active: dev
+config:
+  info: springcloud configuration test
